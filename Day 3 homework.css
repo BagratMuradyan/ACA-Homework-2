@@ -1,0 +1,88 @@
+html,body{
+	margin: 0;
+	padding: 0;
+	}
+.container {
+width: 100%;
+}
+.clear{
+	clear: both;
+}
+.headerContainer {
+width: 100%;
+border: 1px solid black;
+	background-color: white;
+	margin: 0px auto;
+	height: 30px;
+}
+.topSection{
+	width: 1000px;
+	background-color: white;
+	height: 20px;
+	margin: 0px auto;
+}
+
+.leftHeader {
+width: 7%;
+float: left;
+color: gray;
+font-size: 10px;
+margin: 5px;
+padding: 3px;
+}
+.rightHeader{
+	width: 30%;
+	float: right;
+}
+.rightColumn{
+	width: 7%;
+	height: 23px;
+float: left;
+color: gray;
+font-size: 10px;
+padding: 3px;
+border: 1px solid gray;
+text-align: center;
+}
+.newsContainer{
+	width: 1000px;
+	background-color: white;
+	height: 80px;
+	margin: 0px auto;
+}
+.leftNews{
+	width: 32%;
+	float: left;
+	margin: 0px auto;
+	padding: 7px;
+}
+.rightNews{
+	width: 68%;
+	float: right;
+}
+.rightNewsColumn{
+		
+		float: left;
+		padding-right: 25px;
+	}
+.image1Container{
+	width: 1000px;
+	height: 500px;
+background-color: yellow;
+margin: 0px auto;
+}
+.image1Left{
+	width: 70%;
+	float: left;
+	margin: 0px auto;
+}
+.image1Right{
+	width: 30%;
+	float: right;
+	margin: 0px auto;
+}
+table{
+	width: 1000px;
+	border: 1px solid black;
+	margin: 10px auto;
+}	
